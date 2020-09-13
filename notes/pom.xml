@@ -50,7 +50,7 @@
         <dbcp2.version>2.7.0</dbcp2.version>
         <adx.version>1.2.1.0</adx.version>
         <cxf.springboot.version>3.2.5</cxf.springboot.version>
-        <common.beanutils.version>1.9.3</common.beanutils.version>
+        <common.beanutils.version>1.9.4</common.beanutils.version>
 
         <v4.schema.version>1.10.334</v4.schema.version>
 
