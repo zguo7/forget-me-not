@@ -71,7 +71,7 @@
         <evo.inflector.version>1.2.1</evo.inflector.version>
         <kotlin.version>1.1.3</kotlin.version>
         <hc.version>1.0.4</hc.version>
-        <elasticsearch.version>6.5.4</elasticsearch.version>
+        <elasticsearch.version>7.11.2</elasticsearch.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
         <http.client.version>4.5.10</http.client.version>
         <aws.signingInterceptor.version>b3772780da</aws.signingInterceptor.version>
